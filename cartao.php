@@ -1,4 +1,6 @@
 <?php
+	
+	/** Arquivo para aplicação de refatoração e refinamento sucessivo */
 
 	$toht     = 0;
 	$toatr    = 0;
